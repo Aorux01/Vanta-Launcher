@@ -7,7 +7,7 @@
       "id": "welcome-warning",
       "title": "Welcome to Vanta Launcher",
       "message": "This is the beta version of Vanta Launcher! Thank you for testing.",
-      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/warnings/beta.png",
+      "imagePath": "",
       "severity": "info",
       "expiresAt": null,
       "isDismissible": true
