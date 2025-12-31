@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2025-12-02T12:00:00Z",
+  "lastUpdated": "2025-01-01T12:00:00Z",
   
   "warnings": [
     {
       "id": "welcome-warning",
       "title": "Welcome to Vanta Launcher",
-      "message": "This is the beta version of Vanta Launcher. Report any bugs on our Discord server!",
+      "message": "This is the beta version of Vanta Launcher! Thank you for testing.",
       "imagePath": "",
       "severity": "info",
       "expiresAt": null,
@@ -18,10 +18,10 @@
     {
       "id": "news-launch",
       "title": "Vanta Launcher Released!",
-      "summary": "The official release of Vanta Launcher is here. Enjoy!",
-      "imagePath": "assets/images/news/launch.png",
-      "linkUrl": "",
-      "publishedAt": "2025-12-02T12:00:00Z",
+      "summary": "The official release of Vanta Launcher is here. Download and manage your Fortnite builds with ease!",
+      "imagePath": "",
+      "linkUrl": "https://github.com/Aorux01/Vanta-Launcher",
+      "publishedAt": "2025-01-01T12:00:00Z",
       "category": "announcement"
     }
   ],
@@ -32,15 +32,16 @@
     {
       "id": "build-1.7.2",
       "name": "Season 1 - Initial Release",
+      "description": "The very first public version of Fortnite Battle Royale. Experience where it all began with the original map and mechanics.",
       "version": "1.7.2",
       "changelist": "3681159",
-      "imagePath": "assets/images/seasons/chapter1/season1.png",
+      "imagePath": "",
       "chapter": 1,
       "season": 1,
       "sizeBytes": 12000000000,
       "downloadSources": [
         {
-          "url": "https://example.com/builds/1.7.2.zip",
+          "url": "https://builds.rebootfn.org/1.7.2.zip",
           "priority": 1,
           "type": "direct"
         }
@@ -50,9 +51,10 @@
     {
       "id": "build-1.8",
       "name": "Season 1 - End of Season",
+      "description": "The final version of Season 1 with all initial content and fixes.",
       "version": "1.8",
       "changelist": "3724489",
-      "imagePath": "assets/images/seasons/chapter1/season1.png",
+      "imagePath": "",
       "chapter": 1,
       "season": 1,
       "sizeBytes": 15000000000,
@@ -67,10 +69,11 @@
     },
     {
       "id": "build-2.5",
-      "name": "Season 2",
+      "name": "Season 2 - Fort Knights",
+      "description": "Season 2 introduced the Battle Pass, new POIs like Tilted Towers, and medieval themed cosmetics.",
       "version": "2.5",
       "changelist": "3870737",
-      "imagePath": "assets/images/seasons/chapter1/season2.png",
+      "imagePath": "",
       "chapter": 1,
       "season": 2,
       "sizeBytes": 18000000000,
@@ -85,10 +88,11 @@
     },
     {
       "id": "build-3.5",
-      "name": "Season 3",
+      "name": "Season 3 - Space Explorers",
+      "description": "Season 3 brought space-themed content, the meteor events, and introduced Lucky Landing.",
       "version": "3.5",
       "changelist": "4008490",
-      "imagePath": "assets/images/seasons/chapter1/season3.png",
+      "imagePath": "",
       "chapter": 1,
       "season": 3,
       "sizeBytes": 20000000000,
@@ -103,10 +107,11 @@
     },
     {
       "id": "build-4.5",
-      "name": "Season 4 - Thanos",
+      "name": "Season 4 - Brace for Impact",
+      "description": "The meteor struck Dusty Depot! Season 4 featured superhero themes, hop rocks, and the Thanos LTM crossover with Marvel.",
       "version": "4.5",
       "changelist": "4159770",
-      "imagePath": "assets/images/seasons/chapter1/season4.png",
+      "imagePath": "",
       "chapter": 1,
       "season": 4,
       "sizeBytes": 22000000000,
@@ -122,9 +127,10 @@
     {
       "id": "build-5.41",
       "name": "Season 5 - Worlds Collide",
+      "description": "Rifts appeared across the map bringing new locations like Paradise Palms. ATKs and the desert biome were introduced.",
       "version": "5.41",
       "changelist": "4395664",
-      "imagePath": "assets/images/seasons/chapter1/season5.png",
+      "imagePath": "",
       "chapter": 1,
       "season": 5,
       "sizeBytes": 25000000000,
@@ -140,9 +146,10 @@
     {
       "id": "build-6.31",
       "name": "Season 6 - Darkness Rises",
+      "description": "Kevin the Cube wreaked havoc! Season 6 featured spooky themes, shadow stones, and the floating island.",
       "version": "6.31",
       "changelist": "4573279",
-      "imagePath": "assets/images/seasons/chapter1/season6.png",
+      "imagePath": "",
       "chapter": 1,
       "season": 6,
       "sizeBytes": 28000000000,
@@ -158,9 +165,10 @@
     {
       "id": "build-7.40",
       "name": "Season 7 - Ice Storm",
+      "description": "The iceberg crashed into the island bringing Polar Peak and planes. The Ice King's storm event covered the map in snow.",
       "version": "7.40",
       "changelist": "5046157",
-      "imagePath": "assets/images/seasons/chapter1/season7.png",
+      "imagePath": "",
       "chapter": 1,
       "season": 7,
       "sizeBytes": 32000000000,
@@ -176,9 +184,10 @@
     {
       "id": "build-8.51",
       "name": "Season 8 - X Marks The Spot",
+      "description": "Pirates invaded! Season 8 introduced the volcano, Lazy Lagoon, and cannons. The Unvaulting event let players choose which weapon to bring back.",
       "version": "8.51",
       "changelist": "6058028",
-      "imagePath": "assets/images/seasons/chapter1/season8.png",
+      "imagePath": "",
       "chapter": 1,
       "season": 8,
       "sizeBytes": 35000000000,
@@ -194,9 +203,10 @@
     {
       "id": "build-9.41",
       "name": "Season 9 - The Future Is Yours",
+      "description": "Neo Tilted and Mega Mall brought a futuristic aesthetic. Slipstreams provided fast transportation across the map.",
       "version": "9.41",
       "changelist": "7609292",
-      "imagePath": "assets/images/seasons/chapter1/season9.png",
+      "imagePath": "",
       "chapter": 1,
       "season": 9,
       "sizeBytes": 38000000000,
@@ -212,9 +222,10 @@
     {
       "id": "build-10.40",
       "name": "Season X - Out Of Time",
+      "description": "The Zero Point destabilized creating Rift Zones that altered familiar locations. The final season of Chapter 1 ended with The End event.",
       "version": "10.40",
       "changelist": "9380822",
-      "imagePath": "assets/images/seasons/chapter1/seasonx.png",
+      "imagePath": "",
       "chapter": 1,
       "season": 10,
       "sizeBytes": 42000000000,
@@ -229,10 +240,11 @@
     },
     {
       "id": "build-11.31",
-      "name": "Chapter 2 Season 1",
+      "name": "Chapter 2 Season 1 - New World",
+      "description": "A completely new island! Chapter 2 introduced swimming, fishing, boats, and an upgraded engine with new graphics.",
       "version": "11.31",
       "changelist": "10800459",
-      "imagePath": "assets/images/seasons/chapter2/season1.png",
+      "imagePath": "",
       "chapter": 2,
       "season": 1,
       "sizeBytes": 65000000000,
@@ -248,9 +260,10 @@
     {
       "id": "build-12.41",
       "name": "Chapter 2 Season 2 - Top Secret",
+      "description": "Spy games! The Agency, Ghost vs Shadow factions, mythic weapons from bosses, and the introduction of vaults.",
       "version": "12.41",
       "changelist": "12905909",
-      "imagePath": "assets/images/seasons/chapter2/season2.png",
+      "imagePath": "",
       "chapter": 2,
       "season": 2,
       "sizeBytes": 85000000000,
@@ -266,9 +279,10 @@
     {
       "id": "build-13.40",
       "name": "Chapter 2 Season 3 - Splashdown",
+      "description": "The flood! Most of the map was underwater at the start, gradually receding. Cars were added and Aquaman made an appearance.",
       "version": "13.40",
       "changelist": "13777676",
-      "imagePath": "assets/images/seasons/chapter2/season3.png",
+      "imagePath": "",
       "chapter": 2,
       "season": 3,
       "sizeBytes": 90000000000,
@@ -284,9 +298,10 @@
     {
       "id": "build-14.60",
       "name": "Chapter 2 Season 4 - Nexus War",
+      "description": "Marvel heroes assembled to fight Galactus! Thor, Iron Man, Wolverine and more joined forces in this epic crossover season.",
       "version": "14.60",
       "changelist": "14786821",
-      "imagePath": "assets/images/seasons/chapter2/season4.png",
+      "imagePath": "",
       "chapter": 2,
       "season": 4,
       "sizeBytes": 95000000000,
@@ -312,9 +327,9 @@
   },
   
   "metadata": {
-    "latestLauncherVersion": "1.0.0-16732946",
-    "downloadUrl": "",
-    "changelogUrl": "",
+    "latestLauncherVersion": "1.0.0",
+    "downloadUrl": "https://github.com/Aorux01/Vanta-Launcher/releases",
+    "changelogUrl": "https://github.com/Aorux01/Vanta-Launcher/releases",
     "supportedLanguages": ["en", "fr"]
   }
 }
