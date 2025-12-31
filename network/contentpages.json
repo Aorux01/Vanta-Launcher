@@ -7,7 +7,7 @@
       "id": "welcome-warning",
       "title": "Welcome to Vanta Launcher",
       "message": "This is the beta version of Vanta Launcher! Thank you for testing.",
-      "imagePath": "",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/warnings/beta.png",
       "severity": "info",
       "expiresAt": null,
       "isDismissible": true
@@ -19,7 +19,7 @@
       "id": "news-launch",
       "title": "Vanta Launcher Released!",
       "summary": "The official release of Vanta Launcher is here. Download and manage your Fortnite builds with ease!",
-      "imagePath": "",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/news/launch.jpg",
       "linkUrl": "https://github.com/Aorux01/Vanta-Launcher",
       "publishedAt": "2025-01-01T12:00:00Z",
       "category": "announcement"
@@ -35,7 +35,7 @@
       "description": "The very first public version of Fortnite Battle Royale. Experience where it all began with the original map and mechanics.",
       "version": "1.7.2",
       "changelist": "3681159",
-      "imagePath": "",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpeg",
       "chapter": 1,
       "season": 1,
       "sizeBytes": 12000000000,
