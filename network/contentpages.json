@@ -29,62 +29,182 @@
   "projects": [],
   
   "builds": [
-    {
-      "id": "build-1.7.2",
-      "name": "Season 1 - Initial Release",
-      "description": "The very first public version of Fortnite Battle Royale. Experience where it all began with the original map and mechanics.",
-      "version": "1.7.2",
-      "changelist": "3681159",
-      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpeg",
-      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1-b.jpg",
-      "chapter": 1,
-      "season": 1,
-      "sizeBytes": 12000000000,
-      "downloadSources": [
-        {
-          "url": "https://builds.rebootfn.org/1.7.2.zip",
-          "priority": 1,
-          "type": "direct"
-        }
-      ],
-      "availableModules": [
+    [
   {
-    "id": "hd-textures",
-    "name": "HD Textures Pack",
-    "description": "High resolution textures for better visual quality",
-    "sizeBytes": 5000000000,
-    "downloadUrl": "https://builds.rebootfn.org/modules/hd-textures.zip",
-    "isRequired": false
+    "id": "build-1.7.2",
+    "name": "Season 1 - 1.7.2",
+    "description": "🎃 Fortnitemares",
+    "version": "1.7.2",
+    "changelist": "3700114",
+    "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpeg",
+    "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1-b.jpg",
+    "chapter": 1,
+    "season": 1,
+    "sizeBytes": 0,
+    "downloadSources": [
+      {
+        "url": "https://public.simplyblk.xyz/1.7.2.zip",
+        "priority": 1,
+        "type": "direct"
+      },
+      {
+        "url": "https://builds.rebootfn.org/1.7.2.zip",
+        "priority": 2,
+        "type": "direct"
+      }
+    ],
+    "availableModules": []
   },
   {
-    "id": "audio-fr",
-    "name": "French Audio Pack",
-    "description": "French voice acting and audio",
-    "sizeBytes": 2000000000,
-    "downloadUrl": "https://builds.rebootfn.org/modules/audio-fr.zip",
-    "isRequired": false
-  }
-      ]
-    },
-    {
-      "id": "build-1.8",
-      "name": "Season 1 - End of Season",
-      "description": "The final version of Season 1 with all initial content and fixes.",
-      "version": "1.8",
-      "changelist": "3724489",
-      "imagePath": "",
-      "chapter": 1,
-      "season": 1,
-      "sizeBytes": 15000000000,
-      "downloadSources": [
-        {
-          "url": "https://example.com/builds/1.8.zip",
-          "priority": 1,
-          "type": "direct"
-        }
-      ],
-      "availableModules": []
-    },
+    "id": "build-1.8.0",
+    "name": "Season 1 - 1.8.0",
+    "description": "🎃 Fortnitemares",
+    "version": "1.8.0",
+    "changelist": "3724489",
+    "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpeg",
+    "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1-b.jpg",
+    "chapter": 1,
+    "season": 1,
+    "sizeBytes": 0,
+    "downloadSources": [
+      {
+        "url": "https://public.simplyblk.xyz/1.8.rar",
+        "priority": 1,
+        "type": "direct"
+      },
+      {
+        "url": "https://builds.rebootfn.org/1.8.rar",
+        "priority": 2,
+        "type": "direct"
+      }
+    ],
+    "availableModules": []
+  },
+  {
+    "id": "build-1.8.1",
+    "name": "Season 1 - 1.8.1",
+    "description": "None",
+    "version": "1.8.1",
+    "changelist": "3729133",
+    "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpeg",
+    "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1-b.jpg",
+    "chapter": 1,
+    "season": 1,
+    "sizeBytes": 0,
+    "downloadSources": [
+      {
+        "url": "https://public.simplyblk.xyz/1.8.1.rar",
+        "priority": 1,
+        "type": "direct"
+      },
+      {
+        "url": "https://builds.rebootfn.org/1.8.1.rar",
+        "priority": 2,
+        "type": "direct"
+      }
+    ],
+    "availableModules": []
+  },
+  {
+    "id": "build-1.8.2",
+    "name": "Season 1 - 1.8.2",
+    "description": "None",
+    "version": "1.8.2",
+    "changelist": "3741772",
+    "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpeg",
+    "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1-b.jpg",
+    "chapter": 1,
+    "season": 1,
+    "sizeBytes": 0,
+    "downloadSources": [
+      {
+        "url": "https://public.simplyblk.xyz/1.8.2.rar",
+        "priority": 1,
+        "type": "direct"
+      },
+      {
+        "url": "https://builds.rebootfn.org/1.8.2.rar",
+        "priority": 2,
+        "type": "direct"
+      }
+    ],
+    "availableModules": []
+  },
+  {
+    "id": "build-1.9.0",
+    "name": "Season 1 - 1.9.0",
+    "description": "None",
+    "version": "1.9.0",
+    "changelist": "3757339",
+    "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpeg",
+    "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1-b.jpg",
+    "chapter": 1,
+    "season": 1,
+    "sizeBytes": 0,
+    "downloadSources": [
+      {
+        "url": "https://public.simplyblk.xyz/1.9.rar",
+        "priority": 1,
+        "type": "direct"
+      },
+      {
+        "url": "https://builds.rebootfn.org/1.9.rar",
+        "priority": 2,
+        "type": "direct"
+      }
+    ],
+    "availableModules": []
+  },
+  {
+    "id": "build-1.9.1",
+    "name": "Season 1 - 1.9.1",
+    "description": "None",
+    "version": "1.9.1",
+    "changelist": "3775276",
+    "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpeg",
+    "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1-b.jpg",
+    "chapter": 1,
+    "season": 1,
+    "sizeBytes": 0,
+    "downloadSources": [
+      {
+        "url": "https://public.simplyblk.xyz/1.9.1.rar",
+        "priority": 1,
+        "type": "direct"
+      },
+      {
+        "url": "https://builds.rebootfn.org/1.9.1.rar",
+        "priority": 2,
+        "type": "direct"
+      }
+    ],
+    "availableModules": []
+  },
+  {
+    "id": "build-1.10.0",
+    "name": "Season 1 - 1.10.0",
+    "description": "🎄 Winterfest",
+    "version": "1.10.0",
+    "changelist": "3790078",
+    "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpeg",
+    "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1-b.jpg",
+    "chapter": 1,
+    "season": 1,
+    "sizeBytes": 0,
+    "downloadSources": [
+      {
+        "url": "https://public.simplyblk.xyz/1.10.rar",
+        "priority": 1,
+        "type": "direct"
+      },
+      {
+        "url": "https://builds.rebootfn.org/1.10.rar",
+        "priority": 2,
+        "type": "direct"
+      }
+    ],
+    "availableModules": []
+  },
     {
       "id": "build-2.5",
       "name": "Season 2 - Fort Knights",
