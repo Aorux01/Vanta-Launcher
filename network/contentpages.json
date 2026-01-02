@@ -48,24 +48,7 @@
           "type": "direct"
         }
       ],
-      "availableModules": [
-        {
-          "id": "hd-textures",
-          "name": "HD Textures Pack",
-          "description": "High resolution textures for better visual quality",
-          "sizeBytes": 5000000000,
-          "downloadUrl": "https://builds.rebootfn.org/modules/hd-textures.zip",
-          "isRequired": false
-        },
-        {
-          "id": "audio-fr",
-          "name": "French Audio Pack",
-          "description": "French voice acting and audio",
-          "sizeBytes": 2000000000,
-          "downloadUrl": "https://builds.rebootfn.org/modules/audio-fr.zip",
-          "isRequired": false
-        }
-      ]
+      "availableModules": []
     },
     {
       "id": "build-1.8.0",
@@ -474,7 +457,7 @@
     "background": "assets/images/background.png"
   },
   "metadata": {
-    "latestLauncherVersion": "1.0.0",
+    "latestLauncherVersion": "1.0.0-16732946",
     "downloadUrl": "https://github.com/Aorux01/Vanta-Launcher/releases",
     "changelogUrl": "https://github.com/Aorux01/Vanta-Launcher/releases",
     "supportedLanguages": [
