@@ -31,7 +31,7 @@
       "description": "🎃 Fortnitemares",
       "version": "1.7.2",
       "changelist": "3700114",
-      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpeg",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpg",
       "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1-b.jpg",
       "chapter": 1,
       "season": 1,
@@ -56,7 +56,7 @@
       "description": "🎃 Fortnitemares",
       "version": "1.8.0",
       "changelist": "3724489",
-      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpeg",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpg",
       "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1-b.jpg",
       "chapter": 1,
       "season": 1,
@@ -81,7 +81,7 @@
       "description": "None",
       "version": "1.8.1",
       "changelist": "3729133",
-      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpeg",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpg",
       "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1-b.jpg",
       "chapter": 1,
       "season": 1,
@@ -106,7 +106,7 @@
       "description": "None",
       "version": "1.8.2",
       "changelist": "3741772",
-      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpeg",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpg",
       "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1-b.jpg",
       "chapter": 1,
       "season": 1,
@@ -131,7 +131,7 @@
       "description": "None",
       "version": "1.9.0",
       "changelist": "3757339",
-      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpeg",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpg",
       "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1-b.jpg",
       "chapter": 1,
       "season": 1,
@@ -156,7 +156,7 @@
       "description": "None",
       "version": "1.9.1",
       "changelist": "3775276",
-      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpeg",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpg",
       "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1-b.jpg",
       "chapter": 1,
       "season": 1,
@@ -181,7 +181,7 @@
       "description": "🎄 Winterfest",
       "version": "1.10.0",
       "changelist": "3790078",
-      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpeg",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1.jpg",
       "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s1-b.jpg",
       "chapter": 1,
       "season": 1,
@@ -201,18 +201,69 @@
       "availableModules": []
     },
     {
-      "id": "build-2.5",
-      "name": "Season 2 - Fort Knights",
-      "description": "Season 2 introduced the Battle Pass, new POIs like Tilted Towers, and medieval themed cosmetics.",
-      "version": "2.5",
-      "changelist": "3870737",
-      "imagePath": "",
+      "id": "build-1.11",
+      "name": "Season 2 - 1.11",
+      "description": "🎄 Winterfest",
+      "version": "1.11",
+      "changelist": "3807424",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s2.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s2-b.jpg",
       "chapter": 1,
       "season": 2,
-      "sizeBytes": 18000000000,
+      "sizeBytes": 0,
       "downloadSources": [
         {
-          "url": "https://example.com/builds/2.5.zip",
+          "url": "https://public.simplyblk.xyz/1.11.zip",
+          "priority": 1,
+          "type": "direct"
+        },
+        {
+          "url": "https://builds.rebootfn.org/1.11.zip",
+          "priority": 2,
+          "type": "direct"
+        }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-2.1.0",
+      "name": "Season 2 - 2.1.0",
+      "description": "None",
+      "version": "2.1.0",
+      "changelist": "3825894",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s2.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s2-b.jpg",
+      "chapter": 1,
+      "season": 2,
+      "sizeBytes": 0,
+      "downloadSources": [
+        {
+          "url": "https://public.simplyblk.xyz/2.1.0.zip",
+          "priority": 1,
+          "type": "direct"
+        },
+        {
+          "url": "https://builds.rebootfn.org/2.1.0.zip",
+          "priority": 2,
+          "type": "direct"
+        }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-2.2.0",
+      "name": "Season 2 - 2.2.0",
+      "description": "None",
+      "version": "2.2.0",
+      "changelist": "3841827",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s2.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s2-b.jpg",
+      "chapter": 1,
+      "season": 2,
+      "sizeBytes": 0,
+      "downloadSources": [
+        {
+          "url": "https://public.simplyblk.xyz/2.2.0.rar",
           "priority": 1,
           "type": "direct"
         }
@@ -220,18 +271,288 @@
       "availableModules": []
     },
     {
-      "id": "build-3.5",
-      "name": "Season 3 - Space Explorers",
-      "description": "Season 3 brought space-themed content, the meteor events, and introduced Lucky Landing.",
-      "version": "3.5",
-      "changelist": "4008490",
-      "imagePath": "",
+      "id": "build-2.3.0",
+      "name": "Season 2 - 2.3.0",
+      "description": "None",
+      "version": "2.3.0",
+      "changelist": "3847564",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s2.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s2-b.jpg",
+      "chapter": 1,
+      "season": 2,
+      "sizeBytes": 0,
+      "downloadSources": [
+        {
+          "url": "https://public.simplyblk.xyz/2.3.rar",
+          "priority": 1,
+          "type": "direct"
+        },
+        {
+          "url": "https://builds.rebootfn.org/2.3.rar",
+          "priority": 2,
+          "type": "direct"
+        }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-2.3.2",
+      "name": "Season 2 - 2.3.2",
+      "description": "None (Build Lost)",
+      "version": "2.3.2",
+      "changelist": "3847564",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s2.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s2-b.jpg",
+      "chapter": 1,
+      "season": 2,
+      "sizeBytes": 0,
+      "downloadSources": [],
+      "availableModules": []
+    },
+    {
+      "id": "build-2.4.0",
+      "name": "Season 2 - 2.4.0",
+      "description": "None",
+      "version": "2.4.0",
+      "changelist": "3858292",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s2.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s2-b.jpg",
+      "chapter": 1,
+      "season": 2,
+      "sizeBytes": 0,
+      "downloadSources": [
+        {
+          "url": "https://public.simplyblk.xyz/2.4.0.zip",
+          "priority": 1,
+          "type": "direct"
+        },
+        {
+          "url": "https://builds.rebootfn.org/2.4.0.zip",
+          "priority": 2,
+          "type": "direct"
+        }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-2.4.2",
+      "name": "Season 2 - 2.4.2",
+      "description": "None",
+      "version": "2.4.2",
+      "changelist": "3870737",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s2.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s2-b.jpg",
+      "chapter": 1,
+      "season": 2,
+      "sizeBytes": 0,
+      "downloadSources": [
+        {
+          "url": "https://public.simplyblk.xyz/2.4.2.zip",
+          "priority": 1,
+          "type": "direct"
+        },
+        {
+          "url": "https://builds.rebootfn.org/2.4.2.zip",
+          "priority": 2,
+          "type": "direct"
+        }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-2.5.0",
+      "name": "Season 2 - 2.5.0",
+      "description": "None",
+      "version": "2.5.0",
+      "changelist": "3889387",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s2.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s2-b.jpg",
+      "chapter": 1,
+      "season": 2,
+      "sizeBytes": 0,
+      "downloadSources": [
+        {
+          "url": "https://public.simplyblk.xyz/2.5.0.rar",
+          "priority": 1,
+          "type": "direct"
+        },
+        {
+          "url": "https://builds.rebootfn.org/2.5.0.rar",
+          "priority": 2,
+          "type": "direct"
+        }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-3.0.0",
+      "name": "Season 3 - 3.0.0",
+      "description": "None",
+      "version": "3.0.0",
+      "changelist": "3901517",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s3.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s3-b.jpg",
       "chapter": 1,
       "season": 3,
-      "sizeBytes": 20000000000,
+      "sizeBytes": 0,
       "downloadSources": [
         {
-          "url": "https://example.com/builds/3.5.zip",
+          "url": "https://public.simplyblk.xyz/3.0.zip",
+          "priority": 1,
+          "type": "direct"
+        },
+        {
+          "url": "https://builds.rebootfn.org/3.0.zip",
+          "priority": 2,
+          "type": "direct"
+        }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-3.1.0",
+      "name": "Season 3 - 3.1.0",
+      "description": "None",
+      "version": "3.1.0",
+      "changelist": "3915963",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s3.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s3-b.jpg",
+      "chapter": 1,
+      "season": 3,
+      "sizeBytes": 0,
+      "downloadSources": [
+        {
+          "url": "https://public.simplyblk.xyz/3.1.rar",
+          "priority": 1,
+          "type": "direct"
+        },
+        {
+          "url": "https://builds.rebootfn.org/3.1.rar",
+          "priority": 2,
+          "type": "direct"
+        }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-3.1.1",
+      "name": "Season 3 - 3.1.1",
+      "description": "None",
+      "version": "3.1.1",
+      "changelist": "3917250",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s3.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s3-b.jpg",
+      "chapter": 1,
+      "season": 3,
+      "sizeBytes": 0,
+      "downloadSources": [
+        {
+          "url": "https://public.simplyblk.xyz/3.1.1.zip",
+          "priority": 1,
+          "type": "direct"
+        },
+        {
+          "url": "https://builds.rebootfn.org/3.1.1.zip",
+          "priority": 2,
+          "type": "direct"
+        },
+        {
+          "url": "https://drive.google.com/file/d/16c1NDzWZc_zb9nQV4ICj1LM9XvBtAGDJ/view",
+          "priority": 3,
+          "type": "direct"
+        }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-3.2.0",
+      "name": "Season 3 - 3.2.0",
+      "description": "None",
+      "version": "3.2.0",
+      "changelist": "3935073",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s3.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s3-b.jpg",
+      "chapter": 1,
+      "season": 3,
+      "sizeBytes": 0,
+      "downloadSources": [
+        {
+          "url": "https://public.simplyblk.xyz/3.2.zip",
+          "priority": 1,
+          "type": "direct"
+        },
+        {
+          "url": "https://builds.rebootfn.org/3.2.zip",
+          "priority": 2,
+          "type": "direct"
+        }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-3.3.0",
+      "name": "Season 3 - 3.3.0",
+      "description": "None",
+      "version": "3.3.0",
+      "changelist": "3942182",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s3.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s3-b.jpg",
+      "chapter": 1,
+      "season": 3,
+      "sizeBytes": 0,
+      "downloadSources": [
+        {
+          "url": "https://public.simplyblk.xyz/3.3.rar",
+          "priority": 1,
+          "type": "direct"
+        },
+        {
+          "url": "https://builds.rebootfn.org/3.3.rar",
+          "priority": 2,
+          "type": "direct"
+        }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-3.5.0",
+      "name": "Season 3 - 3.5.0",
+      "description": "None",
+      "version": "3.5.0",
+      "changelist": "4008490",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s3.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s3-b.jpg",
+      "chapter": 1,
+      "season": 3,
+      "sizeBytes": 0,
+      "downloadSources": [
+        {
+          "url": "https://public.simplyblk.xyz/3.5.rar",
+          "priority": 1,
+          "type": "direct"
+        },
+        {
+          "url": "https://builds.rebootfn.org/3.5.rar",
+          "priority": 2,
+          "type": "direct"
+        }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-3.6.0",
+      "name": "Season 3 - 3.6.0",
+      "description": "🌠 It's raining meteors",
+      "version": "3.6.0",
+      "changelist": "4019403",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s3.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s3-b.jpg",
+      "chapter": 1,
+      "season": 3,
+      "sizeBytes": 0,
+      "downloadSources": [
+        {
+          "url": "https://archive.org/download/fortnite-v3.6/Fortnite%20v3.6.7z",
           "priority": 1,
           "type": "direct"
         }
@@ -239,135 +560,342 @@
       "availableModules": []
     },
     {
-      "id": "build-4.5",
-      "name": "Season 4 - Brace for Impact",
-      "description": "The meteor struck Dusty Depot! Season 4 featured superhero themes, hop rocks, and the Thanos LTM crossover with Marvel.",
-      "version": "4.5",
-      "changelist": "4159770",
-      "imagePath": "",
+      "id": "build-4.0.0",
+      "name": "Season 4 - 4.0.0",
+      "description": "None",
+      "version": "4.0.0",
+      "changelist": "4039451",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s4.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s4-b.jpg",
       "chapter": 1,
       "season": 4,
-      "sizeBytes": 22000000000,
+      "sizeBytes": 0,
       "downloadSources": [
-        {
-          "url": "https://example.com/builds/4.5.zip",
-          "priority": 1,
-          "type": "direct"
-        }
+        { "url": "https://public.simplyblk.xyz/4.0.zip", "priority": 1, "type": "direct" },
+        { "url": "https://builds.rebootfn.org/4.0.zip", "priority": 2, "type": "direct" }
       ],
       "availableModules": []
     },
     {
-      "id": "build-5.41",
-      "name": "Season 5 - Worlds Collide",
-      "description": "Rifts appeared across the map bringing new locations like Paradise Palms. ATKs and the desert biome were introduced.",
-      "version": "5.41",
-      "changelist": "4395664",
-      "imagePath": "",
+      "id": "build-4.1.0",
+      "name": "Season 4 - 4.1.0",
+      "description": "None",
+      "version": "4.1.0",
+      "changelist": "4053532",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s4.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s4-b.jpg",
+      "chapter": 1,
+      "season": 4,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://drive.google.com/file/d/1IEdNjXpDPE7cQKaZK1JJS_SrYWSDn23d/view", "priority": 1, "type": "direct" },
+        { "url": "https://archive.org/download/Fortnite-4.10-CL-4053532.zip/4.10-CL-4053532.zip", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-4.2.0",
+      "name": "Season 4 - 4.2.0",
+      "description": "None",
+      "version": "4.2.0",
+      "changelist": "4072250",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s4.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s4-b.jpg",
+      "chapter": 1,
+      "season": 4,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/4.2.zip", "priority": 1, "type": "direct" },
+        { "url": "https://builds.rebootfn.org/4.2.zip", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-4.4.0",
+      "name": "Season 4 - 4.4.0",
+      "description": "None",
+      "version": "4.4.0",
+      "changelist": "4117433",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s4.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s4-b.jpg",
+      "chapter": 1,
+      "season": 4,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/4.4.rar", "priority": 1, "type": "direct" },
+        { "url": "https://builds.rebootfn.org/4.4.rar", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-4.4.1",
+      "name": "Season 4 - 4.4.1",
+      "description": "None",
+      "version": "4.4.1",
+      "changelist": "4127312",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s4.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s4-b.jpg",
+      "chapter": 1,
+      "season": 4,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/4.4.1.rar", "priority": 1, "type": "direct" },
+        { "url": "https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-4.5.0-cl4159770",
+      "name": "Season 4 - 4.5.0",
+      "description": "🚀 Blast Off",
+      "version": "4.5.0",
+      "changelist": "4159770",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s4.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s4-b.jpg",
+      "chapter": 1,
+      "season": 4,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/4.5.rar", "priority": 1, "type": "direct" },
+        { "url": "https://builds.rebootfn.org/4.5.rar", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-4.5.0-cl4166199",
+      "name": "Season 4 - 4.5.0",
+      "description": "🚀 Blast Off",
+      "version": "4.5.0",
+      "changelist": "4166199",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s4.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s4-b.jpg",
+      "chapter": 1,
+      "season": 4,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://drive.google.com/file/d/1uZ2IO1aY41HmWgq-hb-eyWtXnomkj0nc/view", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-5.0.0",
+      "name": "Season 5 - 5.0.0",
+      "description": "None",
+      "version": "5.0.0",
+      "changelist": "4204761",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s5.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s5-b.jpg",
       "chapter": 1,
       "season": 5,
-      "sizeBytes": 25000000000,
+      "sizeBytes": 0,
       "downloadSources": [
-        {
-          "url": "https://example.com/builds/5.41.zip",
-          "priority": 1,
-          "type": "direct"
-        }
+        { "url": "https://public.simplyblk.xyz/5.00.rar", "priority": 1, "type": "direct" },
+        { "url": "https://builds.rebootfn.org/5.00.rar", "priority": 2, "type": "direct" }
       ],
       "availableModules": []
     },
     {
-      "id": "build-6.31",
-      "name": "Season 6 - Darkness Rises",
-      "description": "Kevin the Cube wreaked havoc! Season 6 featured spooky themes, shadow stones, and the floating island.",
-      "version": "6.31",
-      "changelist": "4573279",
-      "imagePath": "",
+      "id": "build-5.0.1",
+      "name": "Season 5 - 5.0.1",
+      "description": "None",
+      "version": "5.0.1",
+      "changelist": "4214610",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s5.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s5-b.jpg",
+      "chapter": 1,
+      "season": 5,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/5.0.1.rar", "priority": 1, "type": "direct" },
+        { "url": "https://builds.rebootfn.org/5.0.1.rar", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-5.1.0",
+      "name": "Season 5 - 5.1.0",
+      "description": "None",
+      "version": "5.1.0",
+      "changelist": "4240749",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s5.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s5-b.jpg",
+      "chapter": 1,
+      "season": 5,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/5.10.rar", "priority": 1, "type": "direct" },
+        { "url": "https://builds.rebootfn.org/5.10.rar", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-5.2.1",
+      "name": "Season 5 - 5.2.1",
+      "description": "None",
+      "version": "5.2.1",
+      "changelist": "4288479",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s5.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s5-b.jpg",
+      "chapter": 1,
+      "season": 5,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/5.21.rar", "priority": 1, "type": "direct" },
+        { "url": "https://builds.rebootfn.org/5.21.rar", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-5.3.0",
+      "name": "Season 5 - 5.3.0",
+      "description": "🟣 Cube Spawning",
+      "version": "5.3.0",
+      "changelist": "4305896",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s5.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s5-b.jpg",
+      "chapter": 1,
+      "season": 5,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/5.30.rar", "priority": 1, "type": "direct" },
+        { "url": "https://builds.rebootfn.org/5.30.rar", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-5.4.0",
+      "name": "Season 5 - 5.4.0",
+      "description": "None",
+      "version": "5.4.0",
+      "changelist": "4352937",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s5.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s5-b.jpg",
+      "chapter": 1,
+      "season": 5,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/5.40.rar", "priority": 1, "type": "direct" },
+        { "url": "https://builds.rebootfn.org/5.40.rar", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-5.4.1",
+      "name": "Season 5 - 5.4.1",
+      "description": "🟣 Cube Sinking",
+      "version": "5.4.1",
+      "changelist": "4363240",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s5.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s5-b.jpg",
+      "chapter": 1,
+      "season": 5,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public-build-archives-bucket.erafn.dev/5.41.zip", "priority": 1, "type": "direct" },
+        { "url": "https://archive.org/download/Fortnite-5.41-CL-4363240.zip/5.41-CL-4363240.zip", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-6.0.0-cl4395664",
+      "name": "Season 6 - 6.0.0",
+      "description": "🎃 Fortnitemares",
+      "version": "6.0.0",
+      "changelist": "4395664",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s6.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s6-b.jpg",
       "chapter": 1,
       "season": 6,
-      "sizeBytes": 28000000000,
+      "sizeBytes": 0,
       "downloadSources": [
-        {
-          "url": "https://example.com/builds/6.31.zip",
-          "priority": 1,
-          "type": "direct"
-        }
+        { "url": "https://public.simplyblk.xyz/6.00.rar", "priority": 1, "type": "direct" },
+        { "url": "https://builds.rebootfn.org/6.00.rar", "priority": 2, "type": "direct" }
       ],
       "availableModules": []
     },
     {
-      "id": "build-7.40",
-      "name": "Season 7 - Ice Storm",
-      "description": "The iceberg crashed into the island bringing Polar Peak and planes. The Ice King's storm event covered the map in snow.",
-      "version": "7.40",
-      "changelist": "5046157",
-      "imagePath": "",
+      "id": "build-6.0.1-cl4417689",
+      "name": "Season 6 - 6.0.1",
+      "description": "🎃 Fortnitemares",
+      "version": "6.0.1",
+      "changelist": "4417689",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s6.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s6-b.jpg",
       "chapter": 1,
-      "season": 7,
-      "sizeBytes": 32000000000,
+      "season": 6,
+      "sizeBytes": 0,
       "downloadSources": [
-        {
-          "url": "https://example.com/builds/7.40.zip",
-          "priority": 1,
-          "type": "direct"
-        }
+        { "url": "https://public.simplyblk.xyz/6.01.rar", "priority": 1, "type": "direct" },
+        { "url": "https://builds.rebootfn.org/6.01.rar", "priority": 2, "type": "direct" }
       ],
       "availableModules": []
     },
     {
-      "id": "build-8.51",
-      "name": "Season 8 - X Marks The Spot",
-      "description": "Pirates invaded! Season 8 introduced the volcano, Lazy Lagoon, and cannons. The Unvaulting event let players choose which weapon to bring back.",
-      "version": "8.51",
-      "changelist": "6058028",
-      "imagePath": "",
+      "id": "build-6.1.0-cl4464155",
+      "name": "Season 6 - 6.1.0",
+      "description": "🎃 Fortnitemares",
+      "version": "6.1.0",
+      "changelist": "4464155",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s6.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s6-b.jpg",
       "chapter": 1,
-      "season": 8,
-      "sizeBytes": 35000000000,
+      "season": 6,
+      "sizeBytes": 0,
       "downloadSources": [
-        {
-          "url": "https://example.com/builds/8.51.zip",
-          "priority": 1,
-          "type": "direct"
-        }
+        { "url": "https://public.simplyblk.xyz/6.10.rar", "priority": 1, "type": "direct" },
+        { "url": "https://builds.rebootfn.org/6.10.rar", "priority": 2, "type": "direct" }
       ],
       "availableModules": []
     },
     {
-      "id": "build-9.41",
-      "name": "Season 9 - The Future Is Yours",
-      "description": "Neo Tilted and Mega Mall brought a futuristic aesthetic. Slipstreams provided fast transportation across the map.",
-      "version": "9.41",
-      "changelist": "7609292",
-      "imagePath": "",
+      "id": "build-6.2.1-cl4526925",
+      "name": "Season 6 - 6.2.1",
+      "description": "🦋 Butterfly",
+      "version": "6.2.1",
+      "changelist": "4526925",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s6.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s6-b.jpg",
       "chapter": 1,
-      "season": 9,
-      "sizeBytes": 38000000000,
+      "season": 6,
+      "sizeBytes": 0,
       "downloadSources": [
-        {
-          "url": "https://example.com/builds/9.41.zip",
-          "priority": 1,
-          "type": "direct"
-        }
+        { "url": "https://public.simplyblk.xyz/6.21.rar", "priority": 1, "type": "direct" },
+        { "url": "https://builds.rebootfn.org/6.21.rar", "priority": 2, "type": "direct" },
+        { "url": "https://public-build-archives-bucket.erafn.dev/6.21.zip", "priority": 3, "type": "direct" }
       ],
       "availableModules": []
     },
     {
-      "id": "build-10.40",
-      "name": "Season X - Out Of Time",
-      "description": "The Zero Point destabilized creating Rift Zones that altered familiar locations. The final season of Chapter 1 ended with The End event.",
-      "version": "10.40",
-      "changelist": "9380822",
-      "imagePath": "",
+      "id": "build-6.3.0",
+      "name": "Season 6 - 6.3.0",
+      "description": "None",
+      "version": "6.3.0",
+      "changelist": "4573096",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s6.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s6-b.jpg",
       "chapter": 1,
-      "season": 10,
-      "sizeBytes": 42000000000,
+      "season": 6,
+      "sizeBytes": 0,
       "downloadSources": [
-        {
-          "url": "https://example.com/builds/10.40.zip",
-          "priority": 1,
-          "type": "direct"
-        }
+        { "url": "https://public.simplyblk.xyz/6.30.rar", "priority": 1, "type": "direct" },
+        { "url": "https://builds.rebootfn.org/6.30.rar", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": []
+    },
+    {
+      "id": "build-6.3.1",
+      "name": "Season 6 - 6.3.1",
+      "description": "None",
+      "version": "6.3.1",
+      "changelist": "4573279",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s6.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c1s6-b.jpg",
+      "chapter": 1,
+      "season": 6,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/6.31.rar", "priority": 1, "type": "direct" },
+        { "url": "https://builds.rebootfn.org/6.31.rar", "priority": 2, "type": "direct" }
       ],
       "availableModules": []
     },
