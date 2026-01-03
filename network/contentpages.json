@@ -5,7 +5,7 @@
     {
       "id": "welcome-warning",
       "title": "Welcome to Vanta Launcher",
-      "message": "This is the beta version of Vanta Launcher! Thank you for testing.",
+      "message": "This is the first version of Vanta Launcher! Thank you for testing.",
       "imagePath": "",
       "severity": "info",
       "expiresAt": null,
