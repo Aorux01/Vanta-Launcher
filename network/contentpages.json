@@ -1385,7 +1385,30 @@
       "availableModules": []
     }
   ],
-  "availableBackends": [],
+  "availableBackends": [
+    {
+      "id": "backend-lawin",
+      "name": "Lawin Server",
+      "description": "A lightweight and easy-to-use Fortnite backend server for seasons 1-10. Perfect for beginners and supports most features out of the box.",
+      "version": "1.0.0",
+      "type": "Lawin",
+      "author": "Lawin Team",
+      "gitUrl": "https://github.com/Starter22/LawinServerV2.git",
+      "imagePath": "",
+      "defaultPort": 3551
+    },
+    {
+      "id": "backend-aurora",
+      "name": "Aurora Backend",
+      "description": "Advanced Fortnite backend with support for newer seasons and additional features like matchmaking and parties.",
+      "version": "2.0.0",
+      "type": "Aurora",
+      "author": "Aurora Team",
+      "gitUrl": "https://github.com/AuroraTeam/Aurora.git",
+      "imagePath": "",
+      "defaultPort": 3551
+    }
+  ],
   "availableGameServers": [],
   "availableExtensions": [],
   "detectableModules": [],
