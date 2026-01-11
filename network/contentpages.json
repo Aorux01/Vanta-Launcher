@@ -1659,6 +1659,630 @@
         { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
         { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
       ]
+    },
+    {
+      "id": "build-11.00-cl9562734",
+      "name": "Season 11 - 11.00",
+      "description": "None",
+      "version": "11.00",
+      "changelist": "9562734",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s1.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s1-b.jpg",
+      "chapter": 2,
+      "season": 1,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://archive.org/download/Fortnite-11.00-CL-9562734.7z/11.00-CL-9562734.7z", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-11.00-cl9603448",
+      "name": "Season 11 - 11.00",
+      "description": "None",
+      "version": "11.00",
+      "changelist": "9603448",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s1.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s1-b.jpg",
+      "chapter": 2,
+      "season": 1,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/11.00.zip", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-11.10",
+      "name": "Season 11 - 11.10",
+      "description": "None",
+      "version": "11.10",
+      "changelist": "9901083",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s1.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s1-b.jpg",
+      "chapter": 2,
+      "season": 1,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://download.fn-archive.com/FortniteClient-11.10-CL-9901083.7z", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-11.21",
+      "name": "Season 11 - 11.21",
+      "description": "🎄 Winterfest",
+      "version": "11.21",
+      "changelist": "10481509",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s1.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s1-b.jpg",
+      "chapter": 2,
+      "season": 1,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://download.fn-archive.com/FortniteClient-11.21-CL-10481509.7z", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-11.30",
+      "name": "Season 11 - 11.30",
+      "description": "⭐ Star Wars",
+      "version": "11.30",
+      "changelist": "10708866",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s1.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s1-b.jpg",
+      "chapter": 2,
+      "season": 1,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/11.30.7z", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-11.31",
+      "name": "Season 11 - 11.31",
+      "description": "None",
+      "version": "11.31",
+      "changelist": "N/A",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s1.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s1-b.jpg",
+      "chapter": 2,
+      "season": 1,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/11.31.rar", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-11.40",
+      "name": "Season 11 - 11.40",
+      "description": "None",
+      "version": "11.40",
+      "changelist": "11039906",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s1.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s1-b.jpg",
+      "chapter": 2,
+      "season": 1,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://download.fn-archive.com/FortniteClient-11.40-CL-11039906.7z", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-12.00-cl11586896",
+      "name": "Season 12 - 12.00",
+      "description": "None",
+      "version": "12.00",
+      "changelist": "11586896",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s2.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s2-b.jpg",
+      "chapter": 2,
+      "season": 2,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/12.00.rar", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-12.10",
+      "name": "Season 12 - 12.10",
+      "description": "None",
+      "version": "12.10",
+      "changelist": "11883027",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s2.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s2-b.jpg",
+      "chapter": 2,
+      "season": 2,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/12.10.zip", "priority": 1, "type": "direct" },
+        { "url": "https://drive.google.com/file/d/1BYHYo4O7P4x5kYzV14q8BopUmO-r5Z_o/view", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-12.20",
+      "name": "Season 12 - 12.20",
+      "description": "None",
+      "version": "12.20",
+      "changelist": "12236980",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s2.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s2-b.jpg",
+      "chapter": 2,
+      "season": 2,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/12.20.rar", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-12.21",
+      "name": "Season 12 - 12.21",
+      "description": "None",
+      "version": "12.21",
+      "changelist": "12353830",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s2.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s2-b.jpg",
+      "chapter": 2,
+      "season": 2,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/12.21.zip", "priority": 1, "type": "direct" },
+        { "url": "https://drive.google.com/file/d/1BA5MJEyE9tje7-frrUrXrRcyhnIrcBEP/view", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-12.40",
+      "name": "Season 12 - 12.40",
+      "description": "None",
+      "version": "12.40",
+      "changelist": "12837456",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s2.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s2-b.jpg",
+      "chapter": 2,
+      "season": 2,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/12.40.rar", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-12.41",
+      "name": "Season 12 - 12.41",
+      "description": "🎤 Travis Scott",
+      "version": "12.41",
+      "changelist": "12905909",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s2.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s2-b.jpg",
+      "chapter": 2,
+      "season": 2,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/Fortnite%2012.41.zip", "priority": 1, "type": "direct" },
+        { "url": "https://cdn.cbn.lol/12.41", "priority": 2, "type": "direct" },
+        { "url": "https://fentti.xyz/upload/12.41.zip", "priority": 3, "type": "direct" },
+        { "url": "https://fnbuilds.boostedv2.dev/12.41.rar", "priority": 4, "type": "direct" },
+        { "url": "https://cdn.aufgeladen.dev/12.41.zip", "priority": 5, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-12.50",
+      "name": "Season 12 - 12.50",
+      "description": "None",
+      "version": "12.50",
+      "changelist": "13137020",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s2.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s2-b.jpg",
+      "chapter": 2,
+      "season": 2,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/12.50.zip", "priority": 1, "type": "direct" },
+        { "url": "https://drive.google.com/file/d/15ijQ8gb_ylzhx8ihLvQm6IPB4uYP5tlB/view", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-12.60",
+      "name": "Season 12 - 12.60",
+      "description": "None",
+      "version": "12.60",
+      "changelist": "13477524",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s2.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s2-b.jpg",
+      "chapter": 2,
+      "season": 2,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://download.fn-archive.com/FortniteClient-12.60-CL-13477524.7z", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-12.61",
+      "name": "Season 12 - 12.61",
+      "description": "🔧 The Device",
+      "version": "12.61",
+      "changelist": "13498980",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s2.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s2-b.jpg",
+      "chapter": 2,
+      "season": 2,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/12.61.zip", "priority": 1, "type": "direct" },
+        { "url": "https://saturn.nxa.app/12.61.zip", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-13.00",
+      "name": "Season 13 - 13.00",
+      "description": "None",
+      "version": "13.00",
+      "changelist": "13649278",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s3.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s3-b.jpg",
+      "chapter": 2,
+      "season": 3,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/13.00.rar", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-13.20",
+      "name": "Season 13 - 13.20",
+      "description": "None",
+      "version": "13.20",
+      "changelist": "13777676",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s3.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s3-b.jpg",
+      "chapter": 2,
+      "season": 3,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/13.20.rar", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-13.30",
+      "name": "Season 13 - 13.30",
+      "description": "None",
+      "version": "13.30",
+      "changelist": "13884634",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s3.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s3-b.jpg",
+      "chapter": 2,
+      "season": 3,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/13.30.rar", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-13.40",
+      "name": "Season 13 - 13.40",
+      "description": "None",
+      "version": "13.40",
+      "changelist": "14113327",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s3.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s3-b.jpg",
+      "chapter": 2,
+      "season": 3,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/13.40.zip", "priority": 1, "type": "direct" },
+        { "url": "https://forcedfnbuilds.website/13.40.rar", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-14.00",
+      "name": "Season 14 - 14.00",
+      "description": "None",
+      "version": "14.00",
+      "changelist": "14211474",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s4.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s4-b.jpg",
+      "chapter": 2,
+      "season": 4,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/14.00.rar", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-14.30",
+      "name": "Season 14 - 14.30",
+      "description": "🎃 Fortnitemares",
+      "version": "14.30",
+      "changelist": "14456520",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s4.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s4-b.jpg",
+      "chapter": 2,
+      "season": 4,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://cdn.solarisfn.dev/Builds/14.30.zip", "priority": 1, "type": "direct" },
+        { "url": "https://gofile.io/d/47NC7f", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-14.40",
+      "name": "Season 14 - 14.40",
+      "description": "🎃 Fortnitemares",
+      "version": "14.40",
+      "changelist": "14550713",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s4.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s4-b.jpg",
+      "chapter": 2,
+      "season": 4,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/14.40.rar", "priority": 1, "type": "direct" },
+        { "url": "https://cdn.solarisfn.dev/Builds/14.40.rar", "priority": 2, "type": "direct" },
+        { "url": "https://nebulafn.com/downloads/14.40.zip", "priority": 3, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-14.60",
+      "name": "Season 14 - 14.60",
+      "description": "🌌 The Devourer of Worlds",
+      "version": "14.60",
+      "changelist": "14786821",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s4.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s4-b.jpg",
+      "chapter": 2,
+      "season": 4,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/14.60.rar", "priority": 1, "type": "direct" },
+        { "url": "https://buzzheavier.com/5deub93f6csc", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-15.00",
+      "name": "Season 15 - 15.00",
+      "description": "🎄 Winterfest",
+      "version": "15.00",
+      "changelist": "14835335",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s5.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s5-b.jpg",
+      "chapter": 2,
+      "season": 5,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://download.fn-archive.com/FortniteClient-15.00-CL-14835335.7z", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-15.20",
+      "name": "Season 15 - 15.20",
+      "description": "None",
+      "version": "15.20",
+      "changelist": "15070882",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s5.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s5-b.jpg",
+      "chapter": 2,
+      "season": 5,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/15.20.rar", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-15.21",
+      "name": "Season 15 - 15.21",
+      "description": "None",
+      "version": "15.21",
+      "changelist": "15083856",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s5.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s5-b.jpg",
+      "chapter": 2,
+      "season": 5,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://download.fn-archive.com/FortniteClient-15.21-CL-15083856.7z", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-15.30",
+      "name": "Season 15 - 15.30",
+      "description": "None",
+      "version": "15.30",
+      "changelist": "15341163",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s5.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s5-b.jpg",
+      "chapter": 2,
+      "season": 5,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/15.30.rar", "priority": 1, "type": "direct" },
+        { "url": "https://r2.ploosh.dev/15.30.zip", "priority": 2, "type": "direct" },
+        { "url": "http://cdn.nebulafn.site/15.30.zip", "priority": 3, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-15.50",
+      "name": "Season 15 - 15.50",
+      "description": "None",
+      "version": "15.50",
+      "changelist": "15526472",
+      "imagePath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s5.jpg",
+      "bannerPath": "https://raw.githubusercontent.com/Aorux01/Vanta-Launcher/refs/heads/main/network/images/seasons/c2s5-b.jpg",
+      "chapter": 2,
+      "season": 5,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     }
   ],
   "availableBackends": [
