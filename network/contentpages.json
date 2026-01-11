@@ -1401,7 +1401,6 @@
       "imagePath": "",
       "defaultPort": 3551,
       "features": ["Shop", "Locker", "Friends"],
-      "supportedSeasons": "1-12",
       "isRecommended": true
     },
     {
@@ -1504,23 +1503,8 @@
       "defaultPort": 3551
     }
   ],
-  "availableGameServers": [
-    {
-      "id": "gs-id",
-      "name": "Nom",
-      "description": "Description",
-      "imagePath": "https://image.jpg",
-      "repositoryUrl": "https://github.com/user/repo"
-    }
-  ],
-  "availableExtensions": [
-    {
-      "id": "ext-id",
-      "name": "Nom",
-      "description": "Description",
-      "imagePath": "https://image.jpg"
-    }
-  ],
+  "availableGameServers": [],
+  "availableExtensions": [],
   "detectableModules": [],
   "assets": {
     "logo": "assets/images/logo.png",
