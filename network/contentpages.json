@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2025-01-01T12:00:00Z",
+  "lastUpdated": "2025-01-11T12:00:00Z",
   "warnings": [
     {
       "id": "welcome-warning",
@@ -1344,7 +1344,11 @@
           "type": "direct"
         }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Battle Royale", "type": "gamemode", "description": "...", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Save The World", "type": "gamemode", "description": "...", "sizeBytes": 0, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "...", "sizeBytes": 5000000000, "isIncluded": false }
+      ]
     },
     {
       "id": "build-13.40",
@@ -1395,7 +1399,10 @@
       "author": "Lawin0129",
       "gitUrl": "https://github.com/Lawin0129/LawinServer.git",
       "imagePath": "",
-      "defaultPort": 3551
+      "defaultPort": 3551,
+      "features": ["Shop", "Locker", "Friends"],
+      "supportedSeasons": "1-12",
+      "isRecommended": true
     },
     {
       "id": "backend-lawin-v2",
@@ -1497,8 +1504,23 @@
       "defaultPort": 3551
     }
   ],
-  "availableGameServers": [],
-  "availableExtensions": [],
+  "availableGameServers": [
+    {
+      "id": "gs-id",
+      "name": "Nom",
+      "description": "Description",
+      "imagePath": "https://image.jpg",
+      "repositoryUrl": "https://github.com/user/repo"
+    }
+  ],
+  "availableExtensions": [
+    {
+      "id": "ext-id",
+      "name": "Nom",
+      "description": "Description",
+      "imagePath": "https://image.jpg"
+    }
+  ],
   "detectableModules": [],
   "assets": {
     "logo": "assets/images/logo.png",
