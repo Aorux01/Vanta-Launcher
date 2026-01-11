@@ -48,7 +48,12 @@
           "type": "direct"
         }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-1.8.0",
@@ -73,7 +78,12 @@
           "type": "direct"
         }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-1.8.1",
@@ -98,7 +108,12 @@
           "type": "direct"
         }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-1.8.2",
@@ -123,7 +138,12 @@
           "type": "direct"
         }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-1.9.0",
@@ -148,7 +168,12 @@
           "type": "direct"
         }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-1.9.1",
@@ -173,7 +198,12 @@
           "type": "direct"
         }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-1.10.0",
@@ -198,7 +228,12 @@
           "type": "direct"
         }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-1.11",
@@ -223,7 +258,12 @@
           "type": "direct"
         }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-2.1.0",
@@ -248,7 +288,12 @@
           "type": "direct"
         }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-2.2.0",
@@ -268,7 +313,12 @@
           "type": "direct"
         }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-2.3.0",
@@ -293,7 +343,12 @@
           "type": "direct"
         }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-2.3.2",
@@ -307,7 +362,12 @@
       "season": 2,
       "sizeBytes": 0,
       "downloadSources": [],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-2.4.0",
@@ -332,7 +392,12 @@
           "type": "direct"
         }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-2.4.2",
@@ -357,7 +422,12 @@
           "type": "direct"
         }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-2.5.0",
@@ -382,7 +452,12 @@
           "type": "direct"
         }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-3.0.0",
@@ -407,7 +482,12 @@
           "type": "direct"
         }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-3.1.0",
@@ -432,7 +512,12 @@
           "type": "direct"
         }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-3.1.1",
@@ -462,7 +547,12 @@
           "type": "direct"
         }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-3.2.0",
@@ -487,7 +577,12 @@
           "type": "direct"
         }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-3.3.0",
@@ -512,7 +607,12 @@
           "type": "direct"
         }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-3.5.0",
@@ -537,7 +637,12 @@
           "type": "direct"
         }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-3.6.0",
@@ -557,7 +662,12 @@
           "type": "direct"
         }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-4.0.0",
@@ -574,7 +684,12 @@
         { "url": "https://public.simplyblk.xyz/4.0.zip", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/4.0.zip", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-4.1.0",
@@ -591,7 +706,12 @@
         { "url": "https://drive.google.com/file/d/1IEdNjXpDPE7cQKaZK1JJS_SrYWSDn23d/view", "priority": 1, "type": "direct" },
         { "url": "https://archive.org/download/Fortnite-4.10-CL-4053532.zip/4.10-CL-4053532.zip", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-4.2.0",
@@ -608,7 +728,12 @@
         { "url": "https://public.simplyblk.xyz/4.2.zip", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/4.2.zip", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-4.4.0",
@@ -625,7 +750,12 @@
         { "url": "https://public.simplyblk.xyz/4.4.rar", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/4.4.rar", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-4.4.1",
@@ -642,7 +772,12 @@
         { "url": "https://public.simplyblk.xyz/4.4.1.rar", "priority": 1, "type": "direct" },
         { "url": "https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-4.5.0-cl4159770",
@@ -659,7 +794,12 @@
         { "url": "https://public.simplyblk.xyz/4.5.rar", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/4.5.rar", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-4.5.0-cl4166199",
@@ -675,7 +815,12 @@
       "downloadSources": [
         { "url": "https://drive.google.com/file/d/1uZ2IO1aY41HmWgq-hb-eyWtXnomkj0nc/view", "priority": 1, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-5.0.0",
@@ -692,7 +837,12 @@
         { "url": "https://public.simplyblk.xyz/5.00.rar", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/5.00.rar", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-5.0.1",
@@ -709,7 +859,12 @@
         { "url": "https://public.simplyblk.xyz/5.0.1.rar", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/5.0.1.rar", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-5.1.0",
@@ -726,7 +881,12 @@
         { "url": "https://public.simplyblk.xyz/5.10.rar", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/5.10.rar", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-5.2.1",
@@ -743,7 +903,12 @@
         { "url": "https://public.simplyblk.xyz/5.21.rar", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/5.21.rar", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-5.3.0",
@@ -760,7 +925,12 @@
         { "url": "https://public.simplyblk.xyz/5.30.rar", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/5.30.rar", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-5.4.0",
@@ -777,7 +947,12 @@
         { "url": "https://public.simplyblk.xyz/5.40.rar", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/5.40.rar", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-5.4.1",
@@ -794,7 +969,12 @@
         { "url": "https://public-build-archives-bucket.erafn.dev/5.41.zip", "priority": 1, "type": "direct" },
         { "url": "https://archive.org/download/Fortnite-5.41-CL-4363240.zip/5.41-CL-4363240.zip", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-6.0.0-cl4395664",
@@ -811,7 +991,12 @@
         { "url": "https://public.simplyblk.xyz/6.00.rar", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/6.00.rar", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-6.0.1-cl4417689",
@@ -828,7 +1013,12 @@
         { "url": "https://public.simplyblk.xyz/6.01.rar", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/6.01.rar", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-6.1.0-cl4464155",
@@ -845,7 +1035,12 @@
         { "url": "https://public.simplyblk.xyz/6.10.rar", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/6.10.rar", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-6.2.1-cl4526925",
@@ -863,7 +1058,12 @@
         { "url": "https://builds.rebootfn.org/6.21.rar", "priority": 2, "type": "direct" },
         { "url": "https://public-build-archives-bucket.erafn.dev/6.21.zip", "priority": 3, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-6.3.0",
@@ -880,7 +1080,12 @@
         { "url": "https://public.simplyblk.xyz/6.30.rar", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/6.30.rar", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-6.3.1",
@@ -897,7 +1102,12 @@
         { "url": "https://public.simplyblk.xyz/6.31.rar", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/6.31.rar", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-7.0.0",
@@ -914,7 +1124,12 @@
         { "url": "https://public.simplyblk.xyz/7.00.rar", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/7.00.rar", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-7.1.0",
@@ -932,7 +1147,12 @@
         { "url": "https://builds.rebootfn.org/7.10.rar", "priority": 2, "type": "direct" },
         { "url": "https://drive.google.com/file/d/1ddhWJsKAgSyaQamPOw03LugLC5wcnzbB/view", "priority": 3, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-7.2.0-cl4727874",
@@ -949,7 +1169,12 @@
         { "url": "https://public.simplyblk.xyz/7.20.rar", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/7.20.rar", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-7.3.0-cl4834550",
@@ -966,7 +1191,12 @@
         { "url": "https://public.simplyblk.xyz/7.30.zip", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/7.30.zip", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-7.4.0-cl5046157",
@@ -983,7 +1213,12 @@
         { "url": "https://public.simplyblk.xyz/7.40.rar", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/7.40.rar", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-8.0.0",
@@ -1000,7 +1235,12 @@
         { "url": "https://public.simplyblk.xyz/8.00.zip", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/8.00.zip", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-8.2.0",
@@ -1017,7 +1257,12 @@
         { "url": "https://public.simplyblk.xyz/8.20.rar", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/8.20.rar", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-8.3.0",
@@ -1034,7 +1279,12 @@
         { "url": "https://public.simplyblk.xyz/8.30.rar", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/8.30.rar", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-8.4.0",
@@ -1051,7 +1301,12 @@
         { "url": "https://public.simplyblk.xyz/8.40.zip", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/8.40.zip", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-8.5.0",
@@ -1068,7 +1323,12 @@
         { "url": "https://public.simplyblk.xyz/8.50.zip", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/8.50.zip", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-8.5.1",
@@ -1085,7 +1345,12 @@
         { "url": "https://public.simplyblk.xyz/8.51.rar", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/8.51.rar", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-9.0.0",
@@ -1102,7 +1367,12 @@
         { "url": "https://public.simplyblk.xyz/9.00.zip", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/9.00.zip", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-9.0.1",
@@ -1119,7 +1389,12 @@
         { "url": "https://public.simplyblk.xyz/9.01.zip", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/9.01.zip", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-9.1.0",
@@ -1137,7 +1412,12 @@
         { "url": "https://builds.rebootfn.org/9.10.rar", "priority": 2, "type": "direct" },
         { "url": "https://cdn.solarisfn.dev/Builds/9.10.zip", "priority": 3, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-9.2.0",
@@ -1154,7 +1434,12 @@
         { "url": "https://public.simplyblk.xyz/9.20.rar", "priority": 1, "type": "direct" },
         { "url": "https://download.fn-archive.com/FortniteClient-9.20-CL-6822798.rar", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-9.2.1",
@@ -1171,7 +1456,12 @@
         { "url": "https://public.simplyblk.xyz/9.21.zip", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/9.21.zip", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-9.3.0",
@@ -1188,7 +1478,12 @@
         { "url": "https://public.simplyblk.xyz/9.30.zip", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/9.30.zip", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-9.4.0",
@@ -1205,7 +1500,12 @@
         { "url": "https://public.simplyblk.xyz/9.40.zip", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/9.40.zip", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-9.4.1",
@@ -1222,7 +1522,12 @@
         { "url": "https://public.simplyblk.xyz/9.41.rar", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/9.41.rar", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-10.00",
@@ -1239,7 +1544,12 @@
         { "url": "https://public.simplyblk.xyz/10.00.zip", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/10.00.zip", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-10.10",
@@ -1256,7 +1566,12 @@
         { "url": "https://public.simplyblk.xyz/10.10.zip", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/10.10.zip", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-10.20",
@@ -1273,7 +1588,12 @@
         { "url": "https://public.simplyblk.xyz/10.20.zip", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/10.20.zip", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-10.30",
@@ -1289,7 +1609,12 @@
       "downloadSources": [
         { "url": "https://download.fn-archive.com/FortniteClient-10.30-CL-8569414.rar", "priority": 1, "type": "direct" }
       ],
-      "availableModules": []
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
     },
     {
       "id": "build-10.31",
@@ -1306,87 +1631,12 @@
         { "url": "https://public.simplyblk.xyz/10.31.zip", "priority": 1, "type": "direct" },
         { "url": "https://builds.rebootfn.org/10.31.zip", "priority": 2, "type": "direct" }
       ],
-      "availableModules": []
-    },
-    {
-      "id": "build-11.31",
-      "name": "Chapter 2 Season 1 - New World",
-      "description": "A completely new island! Chapter 2 introduced swimming, fishing, boats, and an upgraded engine with new graphics.",
-      "version": "11.31",
-      "changelist": "10800459",
-      "imagePath": "",
-      "chapter": 2,
-      "season": 1,
-      "sizeBytes": 65000000000,
-      "downloadSources": [
-        {
-          "url": "https://example.com/builds/11.31.zip",
-          "priority": 1,
-          "type": "direct"
-        }
-      ],
-      "availableModules": []
-    },
-    {
-      "id": "build-12.41",
-      "name": "Chapter 2 Season 2 - Top Secret",
-      "description": "Spy games! The Agency, Ghost vs Shadow factions, mythic weapons from bosses, and the introduction of vaults.",
-      "version": "12.41",
-      "changelist": "12905909",
-      "imagePath": "",
-      "chapter": 2,
-      "season": 2,
-      "sizeBytes": 85000000000,
-      "downloadSources": [
-        {
-          "url": "https://example.com/builds/12.41.zip",
-          "priority": 1,
-          "type": "direct"
-        }
-      ],
       "availableModules": [
-        { "id": "br", "name": "Battle Royale", "type": "gamemode", "description": "...", "sizeBytes": 0, "isIncluded": true },
-        { "id": "stw", "name": "Save The World", "type": "gamemode", "description": "...", "sizeBytes": 0, "isIncluded": false },
-        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "...", "sizeBytes": 5000000000, "isIncluded": false }
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
       ]
-    },
-    {
-      "id": "build-13.40",
-      "name": "Chapter 2 Season 3 - Splashdown",
-      "description": "The flood! Most of the map was underwater at the start, gradually receding. Cars were added and Aquaman made an appearance.",
-      "version": "13.40",
-      "changelist": "13777676",
-      "imagePath": "",
-      "chapter": 2,
-      "season": 3,
-      "sizeBytes": 90000000000,
-      "downloadSources": [
-        {
-          "url": "https://example.com/builds/13.40.zip",
-          "priority": 1,
-          "type": "direct"
-        }
-      ],
-      "availableModules": []
-    },
-    {
-      "id": "build-14.60",
-      "name": "Chapter 2 Season 4 - Nexus War",
-      "description": "Marvel heroes assembled to fight Galactus! Thor, Iron Man, Wolverine and more joined forces in this epic crossover season.",
-      "version": "14.60",
-      "changelist": "14786821",
-      "imagePath": "",
-      "chapter": 2,
-      "season": 4,
-      "sizeBytes": 95000000000,
-      "downloadSources": [
-        {
-          "url": "https://example.com/builds/14.60.zip",
-          "priority": 1,
-          "type": "direct"
-        }
-      ],
-      "availableModules": []
     }
   ],
   "availableBackends": [
@@ -1400,7 +1650,7 @@
       "gitUrl": "https://github.com/Lawin0129/LawinServer.git",
       "imagePath": "",
       "defaultPort": 3551,
-      "features": ["Shop", "Locker", "Friends"],
+      "features": ["CloudStorage", "ClientSettings", "Winterfest", "Purchasing", "XMPP", "Radio", "Friends", "Support a Creator", "Matchmaking", "Cosmetics", "Inventory", "Leaderboard", "Battle Pass", "Events", "Discovery", "Daily Challenge", "Locker", "Save The World"],
       "isRecommended": true
     },
     {
