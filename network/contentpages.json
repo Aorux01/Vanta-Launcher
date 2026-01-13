@@ -2742,6 +2742,303 @@
         { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
         { "id": "stream", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
       ]
+    },
+    {
+      "id": "build-19.00-cl18335626",
+      "name": "Season 19 - 19.00",
+      "description": "None",
+      "version": "19.00",
+      "changelist": "18335626",
+      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c3s1.jpg",
+      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c3s1-b.jpg",
+      "chapter": 3,
+      "season": 1,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/19.01.zip", "priority": 1, "type": "direct" },
+        { "url": "https://archive.org/compress/fortnite-19.01.7z", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
+        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
+        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
+        { "id": "stream", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
+      ]
+    },
+    {
+      "id": "build-19.01-cl18489740",
+      "name": "Season 19 - 19.01",
+      "description": "🎄 Winterfest",
+      "version": "19.01",
+      "changelist": "18489740",
+      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c3s1.jpg",
+      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c3s1-b.jpg",
+      "chapter": 3,
+      "season": 1,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://r2.ploosh.dev/19.01.zip", "priority": 1, "type": "direct" },
+        { "url": "https://archive.org/download/Fortnite-19.01-CL-18489740.zip/19.01-CL-18489740.zip", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true }
+      ]
+    },
+    {
+      "id": "build-19.10-cl18675304",
+      "name": "Season 19 - 19.10",
+      "description": "None",
+      "version": "19.10",
+      "changelist": "18675304",
+      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c3s1.jpg",
+      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c3s1-b.jpg",
+      "chapter": 3,
+      "season": 1,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/19.10.rar", "priority": 1, "type": "direct" },
+        { "url": "https://crystal.ploosh.dev/19.10.zip", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true }
+      ]
+    },
+    {
+      "id": "build-19.30-cl19027703",
+      "name": "Season 19 - 19.30",
+      "description": "None",
+      "version": "19.30",
+      "changelist": "19027703",
+      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c3s1.jpg",
+      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c3s1-b.jpg",
+      "chapter": 3,
+      "season": 1,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/19.30.rar", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true }
+      ]
+    },
+    {
+      "id": "build-19.40-cl19215531",
+      "name": "Season 19 - 19.40",
+      "description": "None",
+      "version": "19.40",
+      "changelist": "19215531",
+      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c3s1.jpg",
+      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c3s1-b.jpg",
+      "chapter": 3,
+      "season": 1,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/19.40.7z", "priority": 1, "type": "direct" },
+        { "url": "https://www.dropbox.com/scl/fi/yh62d1ay5v87deks1g53d/19.40.zip?rlkey=y6fo0ktol2ayf7wpdw1qooj3z&dl=1", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true }
+      ]
+    },
+    {
+      "id": "build-20.00-cl19458861",
+      "name": "Season 20 - 20.00",
+      "description": "None",
+      "version": "20.00",
+      "changelist": "19458861",
+      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c3s2.jpg",
+      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c3s2-b.jpg",
+      "chapter": 3,
+      "season": 2,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/20.00.rar", "priority": 1, "type": "direct" },
+        { "url": "https://r2.kovryn.xyz/20.00-CL-19458861.7z", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true }
+      ]
+    },
+    {
+      "id": "build-20.10-cl19598943",
+      "name": "Season 20 - 20.10",
+      "description": "None",
+      "version": "20.10",
+      "changelist": "19598943",
+      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c3s2.jpg",
+      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c3s2-b.jpg",
+      "chapter": 3,
+      "season": 2,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/20.10.zip", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true }
+      ]
+    },
+    {
+      "id": "build-20.20-cl19751212",
+      "name": "Season 20 - 20.20",
+      "description": "None",
+      "version": "20.20",
+      "changelist": "19751212",
+      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c3s2.jpg",
+      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c3s2-b.jpg",
+      "chapter": 3,
+      "season": 2,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/20.20.zip", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true }
+      ]
+    },
+    {
+      "id": "build-20.30-cl19950687",
+      "name": "Season 20 - 20.30",
+      "description": "None",
+      "version": "20.30",
+      "changelist": "19950687",
+      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c3s2.jpg",
+      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c3s2-b.jpg",
+      "chapter": 3,
+      "season": 2,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://cdn.cbn.lol/20.30", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true }
+      ]
+    },
+    {
+      "id": "build-20.40-cl20244966",
+      "name": "Season 20 - 20.40",
+      "description": "💥 Collision / Collider Pulse",
+      "version": "20.40",
+      "changelist": "20244966",
+      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c3s2.jpg",
+      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c3s2-b.jpg",
+      "chapter": 3,
+      "season": 2,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/20.40.zip", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true }
+      ]
+    },
+    {
+      "id": "build-21.00-cl20463113",
+      "name": "Season 21 - 21.00",
+      "description": "None",
+      "version": "21.00",
+      "changelist": "20463113",
+      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c3s3.jpg",
+      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c3s3-b.jpg",
+      "chapter": 3,
+      "season": 3,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://r2.ploosh.dev/21.00.zip", "priority": 1, "type": "direct" },
+        { "url": "https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view", "priority": 2, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true }
+      ]
+    },
+    {
+      "id": "build-21.10-cl20696680",
+      "name": "Season 21 - 21.10",
+      "description": "None",
+      "version": "21.10",
+      "changelist": "20696680",
+      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c3s3.jpg",
+      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c3s3-b.jpg",
+      "chapter": 3,
+      "season": 3,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/21.10.zip", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true }
+      ]
+    },
+    {
+      "id": "build-21.20-cl20978394",
+      "name": "Season 21 - 21.20",
+      "description": "None",
+      "version": "21.20",
+      "changelist": "20978394",
+      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c3s3.jpg",
+      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c3s3-b.jpg",
+      "chapter": 3,
+      "season": 3,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://cdn.cbn.lol/21.20", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true }
+      ]
+    },
+    {
+      "id": "build-21.50-cl21657658",
+      "name": "Season 21 - 21.50",
+      "description": "None",
+      "version": "21.50",
+      "changelist": "21657658",
+      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c3s3.jpg",
+      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c3s3-b.jpg",
+      "chapter": 3,
+      "season": 3,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/21.50.zip", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true }
+      ]
+    },
+    {
+      "id": "build-21.51-cl21735703",
+      "name": "Season 21 - 21.51",
+      "description": "None",
+      "version": "21.51",
+      "changelist": "21735703",
+      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c3s3.jpg",
+      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c3s3-b.jpg",
+      "chapter": 3,
+      "season": 3,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/21.51.7z", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true }
+      ]
+    },
+    {
+      "id": "build-22.00-cl22149829",
+      "name": "Season 22 - 22.00",
+      "description": "None",
+      "version": "22.00",
+      "changelist": "22149829",
+      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c3s4.jpg",
+      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c3s4-b.jpg",
+      "chapter": 3,
+      "season": 4,
+      "sizeBytes": 0,
+      "downloadSources": [
+        { "url": "https://public.simplyblk.xyz/22.00.7z", "priority": 1, "type": "direct" }
+      ],
+      "availableModules": [
+        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true }
+      ]
     }
   ],
   "availableBackends": [
