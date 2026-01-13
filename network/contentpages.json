@@ -615,20 +615,6 @@
       ]
     },
     {
-      "id": "build-3.4.0",
-      "name": "Season 3 - 3.4.0",
-      "description": "None",
-      "version": "3.4.0",
-      "changelist": "3968866",
-      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c1s3.jpg",
-      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c1s3-b.jpg",
-      "chapter": 1,
-      "season": 3,
-      "sizeBytes": 0,
-      "downloadSources": [],
-      "availableModules": []
-    },
-    {
       "id": "build-3.5.0",
       "name": "Season 3 - 3.5.0",
       "description": "None",
@@ -748,20 +734,6 @@
         { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
         { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
       ]
-    },
-    {
-      "id": "build-4.3.0",
-      "name": "Season 4 - 4.3.0",
-      "description": "None",
-      "version": "4.3.0",
-      "changelist": "4095806",
-      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c1s4.jpg",
-      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c1s4-b.jpg",
-      "chapter": 1,
-      "season": 4,
-      "sizeBytes": 0,
-      "downloadSources": [],
-      "availableModules": []
     },
     {
       "id": "build-4.4.0",
@@ -915,20 +887,6 @@
         { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
         { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
       ]
-    },
-    {
-      "id": "build-5.2.0",
-      "name": "Season 5 - 5.2.0",
-      "description": "None",
-      "version": "5.2.0",
-      "changelist": "4259375",
-      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c1s5.jpg",
-      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c1s5-b.jpg",
-      "chapter": 1,
-      "season": 5,
-      "sizeBytes": 0,
-      "downloadSources": [],
-      "availableModules": []
     },
     {
       "id": "build-5.2.1",
@@ -1085,20 +1043,6 @@
       ]
     },
     {
-      "id": "build-6.2.0",
-      "name": "Season 6 - 6.2.0",
-      "description": "None",
-      "version": "6.2.0",
-      "changelist": "4504220",
-      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c1s6.jpg",
-      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c1s6-b.jpg",
-      "chapter": 1,
-      "season": 6,
-      "sizeBytes": 0,
-      "downloadSources": [],
-      "availableModules": []
-    },
-    {
       "id": "build-6.2.1-cl4526925",
       "name": "Season 6 - 6.2.1",
       "description": "🦋 Butterfly",
@@ -1186,20 +1130,6 @@
         { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
         { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
       ]
-    },
-    {
-      "id": "build-7.0.1",
-      "name": "Season 7 - 7.0.1",
-      "description": "None",
-      "version": "7.0.1",
-      "changelist": "",
-      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c1s7.jpg",
-      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c1s7-b.jpg",
-      "chapter": 1,
-      "season": 7,
-      "sizeBytes": 0,
-      "downloadSources": [],
-      "availableModules": []
     },
     {
       "id": "build-7.1.0",
@@ -1311,20 +1241,6 @@
         { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
         { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
       ]
-    },
-    {
-      "id": "build-8.0.1",
-      "name": "Season 8 - 8.0.1",
-      "description": "None",
-      "version": "8.0.1",
-      "changelist": "",
-      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c1s8.jpg",
-      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c1s8-b.jpg",
-      "chapter": 1,
-      "season": 8,
-      "sizeBytes": 0,
-      "downloadSources": [],
-      "availableModules": []
     },
     {
       "id": "build-8.1.0",
@@ -1806,41 +1722,6 @@
       "sizeBytes": 0,
       "downloadSources": [
         { "url": "https://public.simplyblk.xyz/11.00.zip", "priority": 1, "type": "direct" }
-      ],
-      "availableModules": [
-        { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
-        { "id": "stw", "name": "Fortnite Save The World", "type": "gamemode", "description": "PVE (Player Versus Entity) mode", "sizeBytes": 10737418240, "isIncluded": false },
-        { "id": "hd", "name": "HD Textures", "type": "textures", "description": "High Resolution Textures", "sizeBytes": 21474836480, "isIncluded": false },
-        { "id": "hd", "name": "Pre-download Streamed Assets", "type": "textures", "description": "Download streamed assets", "sizeBytes": 8589934592, "isIncluded": false }
-      ]
-    },
-    {
-      "id": "build-11.01",
-      "name": "Season 11 - 11.01",
-      "description": "None",
-      "version": "11.01",
-      "changelist": "",
-      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c2s1.jpg",
-      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c2s1-b.jpg",
-      "chapter": 2,
-      "season": 1,
-      "sizeBytes": 0,
-      "downloadSources": [],
-      "availableModules": []
-    },
-    {
-      "id": "build-11.10",
-      "name": "Season 11 - 11.10",
-      "description": "None",
-      "version": "11.10",
-      "changelist": "9901083",
-      "imagePath": "avares://VantaLauncher/Assets/images/seasons/c2s1.jpg",
-      "bannerPath": "avares://VantaLauncher/Assets/images/seasons/c2s1-b.jpg",
-      "chapter": 2,
-      "season": 1,
-      "sizeBytes": 0,
-      "downloadSources": [
-        { "url": "https://download.fn-archive.com/FortniteClient-11.10-CL-9901083.7z", "priority": 1, "type": "direct" }
       ],
       "availableModules": [
         { "id": "br", "name": "Fortnite Core and Battle Royale", "type": "gamemode", "description": "Fortnite game and PVP (Player Versus Player) mode", "sizeBytes": 0, "isIncluded": true },
